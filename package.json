@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-email-multi-nodemailers",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "multiple email providers support for Strapi",
   "dependencies": {
     "@aws-sdk/client-ses": "^3.183.0",
